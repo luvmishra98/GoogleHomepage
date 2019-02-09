@@ -1,0 +1,25 @@
+<html>
+     <head></head>
+	 <body>
+	         <form name="f1">
+			 <h2 align="right">
+			 <font size="4">
+			 <u>you </u> <u>image </u> <u>Gmail  </u>
+			 </font>
+			 </h2>
+			 <h4 align="center">
+			 <font color="blue">G</font>
+			 <font color="red">O</font>
+			 <font color="yellow">O</font>
+			 <font color="blue">G</font>
+			 <font color="green">L</font>
+			 <font color="red">E</font>
+			 <sub><font color="gray">India </font></sub>
+			  <p>
+			  <input type="text" size="50"></p>  
+			  <input type="submit" value="google Search">
+			  <input type="submit" value="I am feeling lucky search!">
+			  </h4>
+			  </form>
+	</body>
+</html>
